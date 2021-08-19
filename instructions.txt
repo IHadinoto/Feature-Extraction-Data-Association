@@ -1,0 +1,3 @@
+Ensure that "GetRangeAndIntensityFromRawScan.m", "Measurements_AAS01.mat" and "MapMTRN4010.mat" are in the same folder as my main file.
+My zip file "Project2_z5161724_Hadinoto_Ian.zip" contains two files "Project2_z5161724_Hadinoto_Ian.m" and "ProcessLidar_z5161724_Hadinoto_Ian."
+The main file is "Project2_z5161724_Hadinoto_Ian.m". Run this file to see the results.
